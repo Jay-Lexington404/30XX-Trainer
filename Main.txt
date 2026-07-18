@@ -35,3 +35,14 @@ InstantKill=0x59055F|C7 83 C0 01 00 00 00 00 00 00|48 89 83 C0 01 00 00 48 85 ED
 ScrapCmp=0x4BEAE5|75 0C|74 0C
 Scrap=0x4BEAF3|8B 40 FF|8B 40 04
 RainbowPatch=0x48C35E|75 09|74 09
+
+[CHECKBOX]
+Health=FREEZE|Health|13337
+Unlimited Power=FREEZE|Energy|13337
+Instant-Kill=PATCH|InstantKill
+Fly-Hack=PATCH|JumpPatch
+Unlimited Scrapbits=PATCH|ScrapCmp,Scrap
+
+[BUTTON]
+Toggle Rainbow=RAINBOW|Color|RainbowPatch
+Toggle DLC Unlock=URL|https://www.youtube.com/watch?v=dQw4w9WgXcQ
