@@ -46,3 +46,4 @@ Unlimited Scrapbits=PATCH|ScrapCmp,Scrap
 [BUTTON]
 Toggle Rainbow=RAINBOW|Color|RainbowPatch
 Toggle DLC Unlock=URL|https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Toggle Test=RAINBOW|Color|RainbowPatch
