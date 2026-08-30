@@ -1,5 +1,5 @@
 [BASE]
-LocalPlayer=0xA74BD8
+LocalPlayer=0A79BE0
 EntityList=0x4D2F030
 
 [POINTER]
